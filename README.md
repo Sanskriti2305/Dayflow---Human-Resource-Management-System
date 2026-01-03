@@ -39,6 +39,7 @@ Simply download the ZIP file and follow the steps below.
 Open a terminal in the extracted project folder and run:
 
 ```bash
+npm install
 npm run dev
 ```
 

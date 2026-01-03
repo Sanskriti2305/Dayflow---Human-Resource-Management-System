@@ -49,7 +49,7 @@ Once the server starts, open your browser and visit:
 
 ```
 Open the URL shown in the terminal after running `npm run dev`.
-ususally at : http://localhost:5173
+ususally at : http://localhost:3000
 ```
 
 

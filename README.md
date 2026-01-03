@@ -48,7 +48,8 @@ npm run dev
 Once the server starts, open your browser and visit:
 
 ```
-http://localhost:5173
+Open the URL shown in the terminal after running `npm run dev`.
+ususally at : http://localhost:5173
 ```
 
 

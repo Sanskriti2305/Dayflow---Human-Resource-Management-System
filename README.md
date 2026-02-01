@@ -1,4 +1,4 @@
-# 🌟 Dayflow — Human Resource Management System (HRMS)
+# 🌟 Dayflow - Human Resource Management System (HRMS)
 
 Dayflow is a modern, lightweight **Human Resource Management System (HRMS)** designed to simplify and streamline everyday HR operations.
 It provides an intuitive interface for managing employees, tracking workflows, and organizing HR activities efficiently — all in one place.
